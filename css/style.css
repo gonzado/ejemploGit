@@ -1,0 +1,16 @@
+/*---- RESETEO ---*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*---- INDEX ----*/
+/*---- HEADER ----*/
+header nav img{
+    height: 200px;
+    width: 200px;
+}
